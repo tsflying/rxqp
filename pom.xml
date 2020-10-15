@@ -14,7 +14,7 @@
   	<struts.d.javassist>3.12.1.GA</struts.d.javassist>  
     <spring.version>4.2.5.RELEASE</spring.version>  
     <ibatis.version>2.0.8</ibatis.version>  
-    <junit.version>4.8.2</junit.version>  
+    <junit.version>4.13.1</junit.version>  
     <slf4j.version>1.6.1</slf4j.version>  
     <logback.version>0.9.29</logback.version>  
     <maven-dependency-plugin.version>2.1</maven-dependency-plugin.version>
