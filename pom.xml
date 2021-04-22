@@ -20,7 +20,7 @@
     <maven-dependency-plugin.version>2.1</maven-dependency-plugin.version>
     <org.codehaus.jackson-version>1.9.8</org.codehaus.jackson-version>
     <taglib.version>1.1.2</taglib.version>
-    <mybatis.version>3.2.2</mybatis.version>  
+    <mybatis.version>3.5.6</mybatis.version>  
     <mybatis.spring.version>1.2.2</mybatis.spring.version>
     <druid.version>1.0.5</druid.version>
     <cglib.version>3.1</cglib.version>
